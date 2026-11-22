@@ -149,6 +149,6 @@ Use the button in the Quick Start section.
 
 ---
 
-*Rainbow Six Siege · Updated 2026-11-21 · Shared under the MIT License*
+*Rainbow Six Siege · Updated 2026-11-22 · Shared under the MIT License*
 
-<!-- rev 2026-11-21 -->
+<!-- rev 2026-11-22 -->
